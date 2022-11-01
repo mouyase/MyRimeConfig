@@ -1,0 +1,10 @@
+---
+name: yojigen
+version: "2022.11.01"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - sougou_standard
+  - sougou_net
+...

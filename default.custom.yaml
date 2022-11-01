@@ -14,3 +14,4 @@ patch:
     Shift_R: commit_code
     Control_L: noop
     Control_R: noop
+  menu/page_size: 6
